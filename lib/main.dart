@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
-
 import 'presentation/app_widget.dart';
 
 void main() async {
-  runApp(AppWidget());
+  runApp(const AppWidget());
 }
